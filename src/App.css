@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  
+}
+.details-card{
+  padding: 20px;
+  background-color: cadetblue;
+  width: 500px;
+  margin: 70px auto;
 }
 
 .App-logo {
